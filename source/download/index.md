@@ -6,6 +6,4 @@ date: 2016-09-06 23:07:08
 
 ![background](/images/background.jpg)
 
-### {% cq %}**老司机盘** [setup-1.0](http://pan.baidu.com/s/1kU49vc7 "神秘代码:nwgh")
-
-### **直链下载** [setup-1.0](https://dn-stc.qbox.me/setup-1.0.exe){% endcq %}
+### {% cq %} **直链下载** [SoraClient.exe](https://dn-stc.qbox.me/soraclient/SoraClient.exe){% endcq %}
