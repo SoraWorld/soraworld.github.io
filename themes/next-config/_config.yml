@@ -150,6 +150,10 @@ social_icons:
   Coding: code-fork
 
 
+reward_comment: 坚持更好的服务，您的支持将鼓励我继续前行！
+wechatpay: /images/weipay.png
+alipay: /images/alipay.png
+
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
