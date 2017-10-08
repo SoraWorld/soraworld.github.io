@@ -1,0 +1,4 @@
+[submodule "themes/next"]
+	path = themes/next
+	branch = sora
+	url = https://github.com/Himmelt/hexo-theme-next.git
